@@ -7,6 +7,7 @@ $(function () {
     g1.setData(d1);
     g1.setType('bar');
     g1.setColor('#ffc423');
+    g1.showValue();
     g1.draw();
   };
 
